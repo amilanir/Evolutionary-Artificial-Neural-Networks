@@ -1,7 +1,7 @@
 # Applying Evolutionary Artificial Neural Networks
 
 A 2D Unity simulation in which cars learn to navigate themselves through different courses. The cars are steered by a feedforward Neural Network. The weights of the network are trained using a modified genetic algorithm.
-Short demo video of an early version: https://youtu.be/rEDzUT3ymw4
+
 
 
 ![](Images/Demo.gif)
